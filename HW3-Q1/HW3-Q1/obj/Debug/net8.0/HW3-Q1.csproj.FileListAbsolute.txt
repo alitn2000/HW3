@@ -1,0 +1,14 @@
+D:\c#\HW3\HW3-Q1\HW3-Q1\bin\Debug\net8.0\HW3-Q1.exe
+D:\c#\HW3\HW3-Q1\HW3-Q1\bin\Debug\net8.0\HW3-Q1.deps.json
+D:\c#\HW3\HW3-Q1\HW3-Q1\bin\Debug\net8.0\HW3-Q1.runtimeconfig.json
+D:\c#\HW3\HW3-Q1\HW3-Q1\bin\Debug\net8.0\HW3-Q1.dll
+D:\c#\HW3\HW3-Q1\HW3-Q1\bin\Debug\net8.0\HW3-Q1.pdb
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\HW3-Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\HW3-Q1.AssemblyInfoInputs.cache
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\HW3-Q1.AssemblyInfo.cs
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\HW3-Q1.csproj.CoreCompileInputs.cache
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\HW3-Q1.dll
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\refint\HW3-Q1.dll
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\HW3-Q1.pdb
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\HW3-Q1.genruntimeconfig.cache
+D:\c#\HW3\HW3-Q1\HW3-Q1\obj\Debug\net8.0\ref\HW3-Q1.dll
